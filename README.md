@@ -11,4 +11,4 @@ docker-compose up
 
 
 
-- OBS: Para utilizar este comando basta estar com o arquivo no mesmo diret
+- OBS: Para utilizar este comando basta estar com o arquivo no mesmo diretório no terminal
